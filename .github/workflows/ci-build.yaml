@@ -12,7 +12,7 @@ on:
       - 'release-*'
 
 env:
-  # Golang version to use across CI steps
+  # Golang version to use across CI steps thangtv
   GOLANG_VERSION: '1.20'
 
 concurrency:
